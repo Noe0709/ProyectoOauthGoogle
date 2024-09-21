@@ -1,2 +1,7 @@
-# ProyectoOauthGoogle
- CRUD donde se prueba la autenticación de Google en base a cuentas
+# Login-con-la-API-de-google
+Inicio de sesión con la API de Google usando PHP
+
+Archivos necesarios:
+- config.php
+- index.php
+- logout.php
